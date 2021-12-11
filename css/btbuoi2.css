@@ -1,0 +1,96 @@
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background: linear-gradient(to right, rgb(187, 187, 154), rgb(77, 77, 218));
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+li a:not(.indam) {
+  line-height: 35px;
+}
+
+li a:hover:not(.indam) {
+  background: linear-gradient(
+    to right,
+    rgba(107, 109, 224, 0.5),
+    rgba(99, 99, 226, 0.5)
+  );
+}
+
+.indam {
+  margin-left: 150px;
+  font-size: 30px;
+}
+.mg {
+  margin-right: 300px;
+}
+em.cuoi {
+  font: small-caption;
+}
+.cot {
+  margin-left: 175px;
+  margin-right: 300px;
+}
+img {
+  float: left;
+  margin-right: 15px;
+}
+.chu {
+  font-size: 20px;
+}
+a.linh:link {
+  color: rgb(221, 19, 19);
+}
+a.linh:visited {
+  color: rgb(221, 19, 19);
+}
+a.linh:hover {
+  color: rgba(107, 109, 224, 0.8);
+}
+a {
+  text-decoration: none;
+}
+.cot2 {
+  margin-left: 175px;
+  margin-right: 300px;
+}
+.chu2 {
+  font-size: 20px;
+}
+.cot2 h3 {
+  font-size: 20px;
+  color: rgb(221, 19, 19);
+}
+h1 {
+  color: rgb(0, 0, 0);
+}
+img.mid {
+  float: none;
+}
+caption {
+  text-align: center;
+}
+.cot3 {
+  margin-left: 175px;
+  margin-right: 300px;
+}
+.cot3 a {
+  color: crimson;
+}
+em {
+  color: crimson;
+}

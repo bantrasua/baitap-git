@@ -1,0 +1,76 @@
+.tonhat {
+  width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ngang1 {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.ngang {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 0;
+}
+.anh1 {
+  margin-right: 80px;
+}
+.hop {
+  border: 1px solid rgb(192, 187, 187);
+  border-radius: 20px;
+  margin-right: 10px;
+}
+.hop a {
+  text-decoration: none;
+}
+.tk {
+  padding-right: 100px;
+  color: rgb(134, 125, 125);
+  margin-left: 100px;
+}
+.logo {
+  border: none;
+}
+.m {
+  margin-left: 200px;
+}
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+h2 {
+  font-weight: normal;
+}
+.anhtin {
+  display: inline-block;
+  width: 310px;
+  height: 90px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+.anh {
+  float: left;
+  margin-right: 5px;
+}
+p {
+  margin-top: 0;
+  vertical-align: top;
+}
